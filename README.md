@@ -1,1 +1,1 @@
-# variant-finder-for-sars-cov2
+# Variant Finder for SARS COV2 / COVID19
