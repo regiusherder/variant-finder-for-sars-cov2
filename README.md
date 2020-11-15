@@ -19,7 +19,7 @@ You can try the variantfinder tool using :
 
  
 
-    Enter query sequence filename : Query Sequences.txt
+    Enter query sequence filename : Input.txt
     Enter output filename (along with .csv) : Output.csv
 
 ## Limitations
