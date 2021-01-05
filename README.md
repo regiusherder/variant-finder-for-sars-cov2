@@ -19,7 +19,7 @@ You can try the variantfinder tool using :
 
  
 
-    Enter query sequence filename : Input.txt
+    Enter query sequence filename : Input.fas #note you can also input a text file as long as the conents are in fasta format
     Enter output filename (along with .csv) : Output.csv
 
 ## Limitations
